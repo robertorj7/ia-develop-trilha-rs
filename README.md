@@ -5,3 +5,8 @@ Este projeto foi criado para servir como um guia de estudos em **Machine Learnin
 ## Objetivo
 
 O objetivo deste repositório é reunir materiais e códigos que facilitem o aprendizado e aprofundamento em Machine Learning, explorando desde conceitos básicos até temas avançados.
+
+## Tópicos de Estudo
+
+- Medidas, Dispersão, Correlação e Gráficos
+- EDA com Pandas
